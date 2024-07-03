@@ -2,7 +2,7 @@
 <h3 align="center">Sou em dev antusiasta por muitas linguagens de códigos e estou em Fortaleza/CE</h3>
 
 <h3 align="left"> Além do Github estou:</h3>
-<p align="left">
+<p align="center">
 <a href="https://codepen.io/lpirola" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="juindev" height="30" width="40" /></a>
 <a href="https://x.com/jrOliveira_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="juindev" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/junior-oliveira-13581042/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juindev" height="30" width="40" /></a>
