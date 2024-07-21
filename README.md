@@ -1,27 +1,74 @@
-<h1 align="center">Olá pessoal 👋, eu sou o Junior ou Juin </h1>
-<h3 align="center">Sou em dev antusiasta por muitas linguagens de códigos e estou em Fortaleza/CE</h3>
+<h2 align="left">Olá 👋! Eu sou o Junin e sou amantes dos códigos...</h2>
 
-<h3 align="left"> Além do Github estou:</h3>
-<p align="left">
-<a href="https://codepen.io/lpirola" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="juindev" height="30" width="40" /></a>
-<a href="https://x.com/jrOliveira_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="juindev" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/junior-oliveira-13581042/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juindev" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/4532930/junior-oliveira?tab=profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="juindev" height="30" width="40" /></a>
-<a href="https://fb.com/JuniorOliveira.Shyko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="juindev" height="30" width="40" /></a>
-<a href="https://www.instagram.com/junioroliveira.shyko/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="juindev" height="30" width="40" /></a>
-<a href="https://discord.gg/junioroliveira0511" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="juindev" height="30" width="40" />
-  </a>
-</p>
-  <h3 align="center"> Onde estou atualmente:</h3>
-<p align="center">  
+###
 
-<a href="https://www.youtube.com/@juindev" target="blank" align="center">
-<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/7341117/345587780-3bee287a-4e60-4279-9fbb-2f3ed0745d7b.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240703%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240703T191905Z&X-Amz-Expires=300&X-Amz-Signature=523dee58518904938fc1fc8ad097b9f7760c191d246d1bed2170f561f8375878&X-Amz-SignedHeaders=host&actor_id=7341117&key_id=0&repo_id=823805221" width="256" />
-</a>
-<p>Sendo líder técnico no desenvolvimento com um repositório principal sendo o <a href="https://github.com/secultce" target="_blank">Mapas Cultural na V5</a></p>
-<p> ⌨️ Tenho experiências com várias stacks como :</p>
-- 🖥️ PHP 5+
-- 🖥️ Framework PHP ( Laravel, Slim, Lumem, Hyperf )
-- 🖥️ Bibliotecas (Vuejs, Reactjs, Reactnative)
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+<h2>Sobre mim</h2>
+
+###
+
+
+###
+
+<p>🚧 Atualmente estou na Secretaria da Cultura do Ceará</p>
+<p>👷 Estou atuando como analista de sistema e sendo techlead de uma ótima equipe.</p>
+<p>🧑‍💻 Estou focado na aplicação monolítica, mas já estou colocando alguns serviços a mais como mensageria e outras apis com Hyperf</p>
+<p>🧑‍💻 Eu também tenho vários projetinhos com Laravel e vuejs.</p>
+
+###
+
+
+
+###
+
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
+###
+
+<div align="left">
+  <p>Faz parte da minha carreira:</p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="30" alt="angular logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg" height="30" alt="cordova logo"  />
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" height="30" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/ionicframework/ionicframework-ar21.svg" height="30" alt="docker logo"  />
+
+</div>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
