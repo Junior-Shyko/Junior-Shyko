@@ -51,6 +51,24 @@
   <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" height="30" alt="docker logo"  />
   <img width="12" />
   <img src="https://www.vectorlogo.zone/logos/ionicframework/ionicframework-ar21.svg" height="30" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" height="30" alt="postgres logo"  />
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg" height="30" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-ar21.svg" height="30" alt="rabbitmq logo"  />
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/digitalocean/digitalocean-ar21.svg" height="30" alt="rabbitmq logo"  />
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" height="30" alt="github logo"  />
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg" height="30" alt="golang logo"  />
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg" height="30" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg" height="30" alt="gitlab logo"  />
 
 </div>
 
